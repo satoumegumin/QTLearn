@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GameSource/BackButton.png</file>
+        <file>GameSource/BackButtonSelected.png</file>
+        <file>GameSource/BackButtonSound.wav</file>
+        <file>GameSource/BoardNode.png</file>
+        <file>GameSource/Coin0001.png</file>
+        <file>GameSource/Coin0002.png</file>
+        <file>GameSource/Coin0003.png</file>
+        <file>GameSource/Coin0004.png</file>
+        <file>GameSource/Coin0005.png</file>
+        <file>GameSource/Coin0006.png</file>
+        <file>GameSource/Coin0007.png</file>
+        <file>GameSource/Coin0008.png</file>
+        <file>GameSource/ConFlipSound.wav</file>
+        <file>GameSource/LevelCompletedDialogBg.png</file>
+        <file>GameSource/LevelIcon.png</file>
+        <file>GameSource/LevelWinSound.wav</file>
+        <file>GameSource/MenuSceneBg.png</file>
+        <file>GameSource/MenuSceneStartButton.png</file>
+        <file>GameSource/OtherSceneBg.png</file>
+        <file>GameSource/PlayLevelSceneBg.png</file>
+        <file>GameSource/TapButtonSound.wav</file>
+        <file>GameSource/Title.png</file>
+    </qresource>
+</RCC>
